@@ -29,6 +29,7 @@ span img {
     width: 68px;
     height: 68px;
     margin-left: 20px;
+    opacity: 0.5;
 }
 
 .footer {
@@ -46,3 +47,6 @@ span img {
     height: 55px;
 }
 
+.footer img:hover{
+   opacity: 1;
+}
