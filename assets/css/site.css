@@ -80,6 +80,15 @@ span img {
     text-align: center;
 }
 
+.loading-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 50px;
+}
+
+  
 @media all and (max-width: 500px) {
     .item img {
         width: 90%;
